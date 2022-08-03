@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---> Pojok Busana <--- */
+:root {
+  /* rose */
+  --color-main: 253 164 175; /*rose 300*/
+  --color-bold: 225 29 72; /*rose 600*/
+  --color-btn-main: 190 18 60; /*rose 700*/
+  --color-btn-muted: 251 113 133; /*rose 400*/
+  --color-btn-warning: 159 18 57; /*rose 800*/
+  --color-text-base: 63 63 70; /*zinc 700*/
+  --color-text-muted: 161 161 170; /*zinc 400*/
+  --color-text-bold: 24 24 27; /*zinc 900*/
+  --color-text-warning: 159 18 57; /*rose 800*/
+  --color-text-reverse: 214 211 209; /*stone 300*/
+}
+.theme-zinc {
+  --color-main: 113 113 122; /*500*/
+  --color-bold: 39 39 42; /*800*/
+  --color-btn-main: 63 63 70; /*700*/
+  --color-btn-muted: 161 161 170; /*400*/
+  --color-btn-warning: 159 18 57; /*rose 800*/
+  --color-text-base: 87 83 78; /*stone 600*/
+  --color-text-muted: 168 162 158; /*stone 400*/
+  --color-text-bold: 28 25 23; /*stone 900*/
+  --color-text-warning: 159 18 57; /*rose 800*/
+  --color-text-reverse: 214 211 209; /*stone 300*/
+}
+.theme-amber {
+  --color-main: 252 211 77; /*300*/
+  --color-bold: 217 119 6; /*600*/
+  --color-btn-main: 180 83 9; /*700*/
+  --color-btn-muted: 251 191 36; /*400*/
+  --color-btn-warning: 159 18 57; /*rose 800*/
+  --color-text-base: 63 63 70; /*zinc 700*/
+  --color-text-muted: 161 161 170; /*zinc 400*/
+  --color-text-bold: 24 24 27; /*zinc 900*/
+  --color-text-warning: 159 18 57; /*rose 800*/
+  --color-text-reverse: 214 211 209; /*stone 300*/
+}
+/* ---> Pojok Busana <--- */
